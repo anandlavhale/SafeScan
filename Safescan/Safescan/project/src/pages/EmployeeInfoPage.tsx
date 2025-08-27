@@ -310,7 +310,7 @@ const EmployeeInfoPage: React.FC = () => {
               </p>
             </div>
             <div className="text-right">
-              <div className="text-2xl font-bold">911</div>
+              <div className="text-2xl font-bold">100</div>
               <div className="text-sm text-red-200">Emergency Services</div>
             </div>
           </div>
